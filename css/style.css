@@ -1,0 +1,35 @@
+.jumbotron {
+  background: url("https://media2.giphy.com/media/l2JhKpQsrSTioJLMc/source.gif");
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding-top: 15%;
+  min-height: 90vh;
+  background-attachment: fixed;
+  text-shadow: 1px 1px 1px black;
+  background-position: center;
+  background-color: #000;
+}
+
+.error {
+    color: red;
+    font-style: italic;
+}
+
+button a {
+  color: white !important;
+}
+
+.card-container {
+  background: white;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  padding : 10px;
+}
+
+body {
+  background: #eee;
+  color: #580000;
+}
+
+/* dark mode */
+
